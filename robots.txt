@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /places/
+Sitemap: https://northbridge-aurora.xyz/sitemap.xml

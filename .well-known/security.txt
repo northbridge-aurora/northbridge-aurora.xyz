@@ -1,0 +1,10 @@
+Contact: mailto:security@northbridge-aurora.xyz
+Expires: 2027-04-01T00:00:00.000Z
+Preferred-Languages: en
+Policy: https://northbridge-aurora.xyz/blog/sbom-attestations-faq/
+
+# Northbridge Aurora welcomes responsible disclosure of security
+# vulnerabilities. If you believe you have found an issue affecting
+# EggTrail or our infrastructure, please contact us at the address
+# above. We will acknowledge receipt within 48 hours and aim to
+# provide an initial assessment within 5 business days.
